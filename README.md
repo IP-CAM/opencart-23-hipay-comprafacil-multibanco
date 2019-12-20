@@ -1,2 +1,3 @@
-# hipaypt-multibanco-opencart-23
-Multibanco extension for Opencart 2.3
+# Multibanco extension for Opencart 2.3
+
+See pdf file for details
